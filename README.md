@@ -15,6 +15,6 @@ An end-to-end deep learning method (AMMVF) is proposed to predict DTI based on d
 3. mol_featurizer.py:process the data to get the input of the model
 
 ## Author
-Chen Qu
-Yifeng Zhou
-Wang Lu
+* Chen Qu
+* Yifeng Zhou
+* Wang Lu
